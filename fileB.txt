@@ -1,2 +1,1 @@
-File B - line 1
-File B - line 2
+File B - изменен в master

@@ -1,2 +1,1 @@
-File A - line 1
-File A - line 2
+File A - изменем в ветке A

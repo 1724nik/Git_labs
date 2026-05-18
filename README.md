@@ -1,2 +1,1 @@
- Мой репозиторий Git_labs
-Это изменение в ветке new-feature
+Изменение из ветки conflict-branch (создано на GitHub)
